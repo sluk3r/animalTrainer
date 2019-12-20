@@ -1,7 +1,6 @@
 package sluker.ooad.animalTrainer;
 
 import sluker.ooad.animal.Animal;
-import sluker.ooad.animal.Dog;
 
 import java.util.HashMap;
 import java.util.Map;
